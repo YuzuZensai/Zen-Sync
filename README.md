@@ -67,7 +67,7 @@ Use `--help` with any command for detailed options.
    python zensync.py sync
    ```
 
-## Main Commands 🎮
+## 🎮 Main Commands
 
 - ⚙️ `configure` - Set up S3 credentials and paths
 - ⬆️ `upload` - Backup profiles to S3
